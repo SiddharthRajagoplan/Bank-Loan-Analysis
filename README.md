@@ -1,0 +1,2 @@
+# Bank-Loan-Analysis
+This is a mini project on a bank in which we try to predict if a depositing customer will avail a loan from the bank based on certain features of the customer. The data was cleaned and was then analyzed using Exploratory Data Analysis Techniques and then was modelled using Classification ALgorithms like Logistic Regression, KNN, Naive Bayes, Decision Trees, SVM etc and conclusion were drawn based on performance metrics like precision,recall, f1-score etc
